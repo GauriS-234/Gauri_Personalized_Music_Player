@@ -1,6 +1,26 @@
-# Personalized_Music_Player
-This is a personalized music player project made using pure HTML, CSS, and JavaScript.
+# Personalized Music Player
 
-## Thoughts
-This was a fun project which I plan on to keep improving in terms of design and functionality (and better songs ofcourse!). This project really helped
-me in improving various concepts of CSS as well as JS in a practical manner.
+A modern, interactive music player built using **HTML**, **CSS**, and **JavaScript**.
+
+## Features
+- Play, Pause, Next, Previous controls
+- Playlist with album covers and song durations
+- Search songs by name
+- Voice search support
+- Add songs to Favorites
+- Recently Played list
+- Shuffle and Repeat modes
+- Volume control and progress bar
+- Responsive design for all devices
+
+## Technologies Used
+- HTML5 for structure
+- CSS3 for styling (modern mint + dark theme)
+- JavaScript (Audio API, Local Storage)
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/GauriS-234/Gauri_Personalized_Music_Player.git
+2. Open index.html in your browser.
+3. Enjoy your personalized playlist!
